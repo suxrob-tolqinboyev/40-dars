@@ -117,7 +117,7 @@
 //     return soni;
 //   };
 
-//   console.log(harfSoni("Muhammadova", "m"));
+//   console.log(harfSoni("Abdujabbor", "b"));
 
 // masala 12
 
